@@ -1,2 +1,2 @@
 # BlockChain
-a simple implementation of the BlockChain in JS
+a raw/simple implementation of the BlockChain in JS
